@@ -12,3 +12,4 @@ A club to discuss the Turing Award lectures.
 - [ ] Add PDFs for the 2000s
 - [ ] Add PDFs for the 2010s
 - [ ] HTML-ise the PDFs
+- [ ] Get a cool club logo
